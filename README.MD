@@ -23,7 +23,7 @@ https://karumenick-dev.github.io/collaborated-website-project/
 ## How to run it locally
 1. Open the terminal and clone the repository:
 
-   git clone https://github.com
+   git clone https://github.com/karumenick-dev/collaborated-website-project
    
 2. Navigate into the project directory:
    
